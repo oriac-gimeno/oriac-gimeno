@@ -41,8 +41,8 @@ Big Data Itinerary (220h)	CIFO Violeta	Big Data Ecosystems & Fundamentals
 Degree in Business Administration	IQS Business School	Core Business Management
 
 🌍 Languages
-Spanish & Catalan: Native
 
+Spanish & Catalan: Native
 English: Fluent (Professional Working Proficiency - C1)
 French: Fluent (Professional Working Proficiency - C1)
 
