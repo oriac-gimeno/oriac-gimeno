@@ -58,9 +58,10 @@ Every technical tool I use is grounded in a **real commercial objective**.
 ---
 
 ## 🎓 Education
-- **Executive Master in Marketing & Sales (EMMV)** — ESADE Business School  
-- **Data Analytics Bootcamp (510h)** — IT Academy / Barcelona Activa  
-- **Big Data Itinerary (220h)** — CIFO Violeta  
+- **Executive Master in Marketing & Sales (EMMV)** — ESADE Business School
+- **Junior Data Analyst Certificate** — UPC (Universitat Politècnica de Catalunya)  
+- **Data Analytics Bootcamp** — IT Academy / Barcelona Activa  
+- **Big Data Itinerary Certificate** — CIFO Violeta  
 - **Degree in Business Administration - BBA** — IQS Business School
 
 ---
@@ -138,9 +139,10 @@ Cada herramienta técnica que utilizo está siempre vinculada a una **necesidad 
 ---
 
 ## 🎓 Formación
-- **Executive Master en Marketing y Ventas (EMMV)** — ESADE Business School  
-- **Bootcamp Data Analytics (510h)** — IT Academy / Barcelona Activa  
-- **Itinerario Big Data (220h)** — CIFO Violeta  
+- **Executive Master en Marketing y Ventas (EMMV)** — ESADE Business School
+- **Certificado Analista de Datos Junior** — UPC (Universitat Politècnica de Catalunya)
+- **Bootcamp Data Analytics** — IT Academy / Barcelona Activa  
+- **Certificado Itinerario Big Data** — CIFO Violeta  
 - **Grado en Administración de Empresas- BBA** — IQS Business School
 
 ---
