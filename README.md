@@ -1,18 +1,13 @@
 # Hi there 👋 I'm Oriac Gimeno
 
-### International Business Strategist | Data Analytics & BI  
+### International Business & Data Strategist  
 📍 Barcelona, Spain
 
-I drive international growth by transforming data into actionable strategy.  
-With **15+ years leading export operations** (P&L up to €8M) and an **ESADE Executive Master in Marketing and Sales**, I design **data-driven solutions using Python, SQL, and Power BI** to optimize market entry, sales forecasting, and operational processes.
+I help companies drive growth by bridging the gap between **high-level business strategy** and **data-driven execution**.
 
----
+With over 15 years of international experience—leading export operations across Americas, Europe, Africa, and the Middle East (P&L up to €8M) and directing a multidisciplinary healthcare center with 30+ professionals—I combine hands-on commercial and general management leadership with advanced analytics. My approach transforms complex data into actionable insights for market entry, sales forecasting, and operational optimization.
 
-## 👋 About Me
-Hybrid professional at the intersection of **international business leadership** and **data analytics**.  
-My background combines senior commercial responsibility in global markets with analytical capabilities that turn data into concrete business decisions.
-
-I work especially well in contexts where **strategy, data and execution** must be aligned to deliver measurable results.
+Holding a **BBA in Business Administration (Economic-Financial specialization)**, an **Executive Master in Marketing & Sales from ESADE**, and a recent **Data Analytics Bootcamp**, I speak the language of business, finance, and data. I build bridges between teams, systems, and decisions.
 
 ---
 
@@ -85,19 +80,14 @@ Every technical tool I use is grounded in a **real commercial objective**.
 
 # Hola 👋 Soy Oriac Gimeno
 
-### Estratega de Negocios Internacionales | Data Analytics & BI  
+### Estratega de Negocios Internacionales y Datos  
 📍 Barcelona, España
 
-Impulso el crecimiento internacional transformando datos en estrategia accionable.  
-Con **más de 15 años liderando operaciones de exportación** (P&L hasta €8M) y un **Executive Master por ESADE en Marketing y Ventas**, diseño **soluciones basadas en datos con Python, SQL y Power BI** para optimizar la entrada en mercados, la previsión de ventas y los procesos operativos.
+Ayudo a empresas a impulsar su crecimiento conectando la **estrategia de negocio** con la **ejecución basada en datos**.
 
----
+Con más de 15 años de experiencia internacional—liderando operaciones de exportación en América, Europa, África y Oriente Medio (P&L de hasta 8M€) y dirigiendo un centro médico multidisciplinar con más de 30 profesionales—combino liderazgo comercial y de gestión general con analítica avanzada. Mi enfoque transforma datos complejos en decisiones prácticas para entrada en mercados, previsión de ventas y optimización operativa.
 
-## 👋 Sobre mí
-Profesional híbrido en la intersección entre el **liderazgo empresarial internacional** y el **análisis de datos**.  
-Mi trayectoria combina responsabilidad comercial sénior en mercados globales con capacidades analíticas orientadas a convertir los datos en **decisiones de negocio concretas**.
-
-Trabajo especialmente bien en contextos donde **estrategia, datos y ejecución** deben estar alineados para generar resultados medibles.
+Titulado en **Administración de Empresas (especialización económico-financiera)**, **Executive Master en Marketing y Ventas por ESADE** y con un **Bootcamp en Data Analytics**, hablo el idioma del negocio, las finanzas y los datos. Construyo puentes entre equipos, sistemas y decisiones.
 
 ---
 
@@ -165,4 +155,3 @@ Cada herramienta técnica que utilizo está siempre vinculada a una **necesidad 
 ## 🔗 Enlaces
 - LinkedIn: https://www.linkedin.com/in/oriacgimeno/
 - Hugging Face: https://huggingface.co/Oriac
-
