@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Oriac Gimeno
 
-### International Business & Data Strategist  
+### Business Strategist | Data & Business Analytics | Turning Data into Business Growth & Strategic Decisions  
 📍 Barcelona, Spain
 
 I help companies drive growth by bridging the gap between **high-level business strategy** and **data-driven execution**.
@@ -81,7 +81,7 @@ Every technical tool I use is grounded in a **real commercial objective**.
 
 # Hola 👋 Soy Oriac Gimeno
 
-### Estratega de Negocios Internacionales y Datos  
+### Estratega de Negocios | Datos y Análisis de Negocios | Transformando Datos en Crecimiento Empresarial y Decisiones Estratégicas 
 📍 Barcelona, España
 
 Ayudo a empresas a impulsar su crecimiento conectando la **estrategia de negocio** con la **ejecución basada en datos**.
