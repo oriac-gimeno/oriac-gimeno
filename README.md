@@ -5,7 +5,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/oriacgimeno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://oriac-gimeno.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"></a>
+<a href="https://oriac-gimeno.github.io/"><img src="https://img.shields.io/badge/Technical_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+<a href="https://oriac-gimeno.framer.website/"><img src="https://img.shields.io/badge/Oriac_Gimeno_Consulting-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Consulting"></a>
 <a href="https://huggingface.co/Oriac"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 </p>
 
@@ -88,9 +89,9 @@ De **liderazgo global en exportación** a **estrategia empresarial basada en dat
 *   **French:** Fluent (C1 - Professional Working Proficiency)
 
 ## 🔗 Links
-*   **Website:** [https://oriac-gimeno.framer.website/](https://oriac-gimeno.framer.website/)
+*   **Technical Portfolio:** [https://oriac-gimeno.github.io/](https://oriac-gimeno.github.io/)
+*   **Oriac Gimeno Consulting:** [https://oriac-gimeno.framer.website/](https://oriac-gimeno.framer.website/)
 *   **LinkedIn:** [https://www.linkedin.com/in/oriacgimeno/](https://www.linkedin.com/in/oriacgimeno/)
-*   **Hugging Face:** [https://huggingface.co/Oriac](https://huggingface.co/Oriac)
 
 ---
 <p align="center">
