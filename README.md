@@ -16,7 +16,7 @@
 
 I help companies drive growth by bridging the gap between **high-level business strategy** and **data-driven execution**. 
 
-With over 15 years of international experience—leading export operations across Americas, Europe, Africa, and the Middle East (P&L up to €8M) and directing a multidisciplinary healthcare center with 30+ professionals—I combine hands-on commercial and general management leadership with advanced analytics. My approach transforms complex data into actionable insights for market entry, sales forecasting, and operational optimization.
+With over 20 years of international experience—leading export operations across Americas, Europe, Africa, and the Middle East (P&L up to €8M) and directing a multidisciplinary healthcare center with 30+ professionals—I combine hands-on commercial and general management leadership with advanced analytics. My approach transforms complex data into actionable insights for market entry, sales forecasting, and operational optimization.
 
 Holding a **BBA in Business Administration** (Economic-Financial specialization), an **Executive Master in Marketing & Sales from ESADE**, and a recent **Data Analytics Bootcamp**, I speak the language of business, finance, and data. I build bridges between teams, systems, and decisions.
 
@@ -55,7 +55,7 @@ From **global export leadership** to **data-driven business strategy**. My profe
 
 Ayudo a empresas a impulsar su crecimiento conectando la **estrategia de negocio** con la **ejecución basada en datos**.
 
-Con más de 15 años de experiencia internacional—liderando operaciones de exportación en América, Europa, África y Oriente Medio (P&L de hasta 8M€) y dirigiendo un centro médico multidisciplinar con más de 30 profesionales—combino liderazgo comercial y de gestión general con analítica avanzada. Mi enfoque transforma datos complejos en decisiones prácticas para entrada en mercados, previsión de ventas y optimización operativa.
+Con más de 20 años de experiencia internacional—liderando operaciones de exportación en América, Europa, África y Oriente Medio (P&L de hasta 8M€) y dirigiendo un centro médico multidisciplinar con más de 30 profesionales—combino liderazgo comercial y de gestión general con analítica avanzada. Mi enfoque transforma datos complejos en decisiones prácticas para entrada en mercados, previsión de ventas y optimización operativa.
 
 Titulado en **Administración de Empresas** (especialización económico-financiera), **Executive Master en Marketing y Ventas por ESADE** y con un **Bootcamp en Data Analytics**, hablo el idioma del negocio, las finanzas y los datos. Construyo puentes entre equipos, sistemas y decisiones.
 
