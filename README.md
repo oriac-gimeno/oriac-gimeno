@@ -4,6 +4,7 @@
 **Bridging the gap between high-level business strategy and data-driven execution.**
 
 <p align="left">
+<a href="https://oriacgimeno.com/"><img src="https://img.shields.io/badge/oriacgimeno.com-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="oriacgimeno.com"></a>
 <a href="https://www.linkedin.com/in/oriacgimeno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://oriac-gimeno.github.io/"><img src="https://img.shields.io/badge/Technical_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 <a href="https://oriac-gimeno.framer.website/"><img src="https://img.shields.io/badge/Oriac_Gimeno_Consulting-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Consulting"></a>
@@ -91,6 +92,7 @@ De **liderazgo global en exportación** a **estrategia empresarial basada en dat
 ---
 
 ## 🔗 Connect with me / Contacto
+*   **Website:** [https://oriacgimeno.com/](https://oriacgimeno.com/)
 *   **Technical Portfolio:** [https://oriac-gimeno.github.io/](https://oriac-gimeno.github.io/)
 *   **Oriac Gimeno Consulting:** [https://oriac-gimeno.framer.website/](https://oriac-gimeno.framer.website/)
 *   **LinkedIn:** [https://www.linkedin.com/in/oriacgimeno/](https://www.linkedin.com/in/oriacgimeno/)
