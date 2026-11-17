@@ -98,5 +98,4 @@ De **liderazgo global en exportación** a **estrategia empresarial basada en dat
 
 ---
 <p align="center">
-<i>Optimized for search: Oriac Gimeno, Oriac Gimeno Lozano, Data Strategist Barcelona, Business Development Data, B2B Commercial Strategy.</i>
-</p>
+
