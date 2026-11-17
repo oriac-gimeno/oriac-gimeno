@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oriac Gimeno Lozano (Oriac Gimeno)
 
-### Business Development Director | B2B Commercial Strategy · Data-Driven Growth
+### Business Performance & Growth | B2B Commercial Strategy · Data-Driven Growth
 **Bridging the gap between high-level business strategy and data-driven execution.**
 
 <p align="left">
