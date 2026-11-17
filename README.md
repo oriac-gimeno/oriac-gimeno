@@ -41,7 +41,7 @@ From **global export leadership** to **data-driven business strategy**. My profe
 *   **Executive Master in Marketing & Sales (EMMS)** — ESADE Business School
 *   **Junior Data Analyst Certificate** — UPC (Universitat Politècnica de Catalunya)
 *   **Data Analytics Bootcamp** — IT Academy / Barcelona Activa
-*   **Big Data Itinerary Certificate** — CIFO Violeta
+*   **Big Data Specialist Certificate** — CIFO Violeta
 *   **Degree in Business Administration (BBA)** — IQS Business School
 
 ### 🌍 Languages
@@ -71,7 +71,7 @@ Titulado en **Administración de Empresas** (especialización económico-financi
 | **Datos y Analítica** | `Python (Pandas, NumPy, Scikit-learn)` `SQL (PostgreSQL, MySQL)` `Power BI` `Excel Avanzado` |
 | **Ingeniería** | `Conceptos ETL` `Web Scraping & APIs` `Fundamentos Cloud (AWS/GCP)` `Git & GitHub` |
 | **Estrategia de Negocio** | `Export Area Management` `Negociación Internacional` `Gestión P&L (€8M)` `Entrada en Mercados` |
-| **Metodologías** | `Agile` `Scrum` `Toma de decisiones basada en datos` |
+| **Metodologías** | `Agile` `Scrum` `Kanban` `Toma de decisiones basada en datos` |
 
 ### 🧭 Trayectoria Profesional
 De **liderazgo global en exportación** a **estrategia empresarial basada en datos**. Mi evolución profesional refleja el paso de gestionar resultados internacionales a diseñar sistemas y procesos analíticos que predicen, optimizan y respaldan la toma de decisiones. Cada herramienta técnica que utilizo está siempre vinculada a una **necesidad comercial real**.
@@ -80,7 +80,7 @@ De **liderazgo global en exportación** a **estrategia empresarial basada en dat
 *   **Executive Master en Marketing y Ventas (EMMV)** — ESADE Business School
 *   **Certificado Analista de Datos Junior** — UPC (Universitat Politècnica de Catalunya)
 *   **Bootcamp Data Analytics** — IT Academy / Barcelona Activa
-*   **Certificado Itinerario Big Data** — CIFO Violeta
+*   **Especialista en Big Data** — CIFO Violeta
 *   **Grado en Administración de Empresas (BBA)** — IQS Business School
 
 ### 🌍 Idiomas
