@@ -38,7 +38,7 @@ Holding a **BBA in Business Administration** (Economic-Financial specialization)
 From **global export leadership** to **data-driven business strategy**. My professional evolution reflects a shift from managing international results to designing analytical systems and processes that **predict, optimize and support business decisions**. Every technical tool I use is grounded in a **real commercial objective**.
 
 ### 🎓 Education
-*   **Executive Master in Marketing & Sales (EMMV)** — ESADE Business School
+*   **Executive Master in Marketing & Sales (EMMS)** — ESADE Business School
 *   **Junior Data Analyst Certificate** — UPC (Universitat Politècnica de Catalunya)
 *   **Data Analytics Bootcamp** — IT Academy / Barcelona Activa
 *   **Big Data Itinerary Certificate** — CIFO Violeta
