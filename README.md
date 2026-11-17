@@ -86,8 +86,8 @@ De **liderazgo global en exportación** a **estrategia empresarial basada en dat
 
 ### 🌍 Idiomas
 *   **Castellano y Catalán:** Nativo
-*   **Inglés:** Fluido (C1 - Professional Working Proficiency)
-*   **Francés:** Fluido (C1 - Professional Working Proficiency)
+*   **Inglés:** Competencia profesional de trabajo (Professional working proficiency)
+*   **Francés:** Competencia profesional de trabajo (Professional working proficiency)
 
 ---
 
